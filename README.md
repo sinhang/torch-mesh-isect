@@ -1,3 +1,6 @@
+# CUDA
+![CUDA INSTALL](https://github.com/sinhang/development-diary/tree/main/cuda)
+
 # Detecting & Penalizing Mesh Intersections
 
 This package provides a PyTorch module that can efficiently (1) detect and (2) penalize (self-)intersections for a triangular mesh.
