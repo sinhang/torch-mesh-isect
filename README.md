@@ -1,5 +1,5 @@
 # CUDA
-![CUDA INSTALL](https://github.com/sinhang/development-diary/tree/main/cuda)
+[CUDA INSTALL](https://github.com/sinhang/development-diary/tree/main/cuda)
 
 # Detecting & Penalizing Mesh Intersections
 
